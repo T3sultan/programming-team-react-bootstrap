@@ -39,15 +39,7 @@ const NavBar = () => {
 
 
                         </Nav>
-                        <Form className="d-flex">
-                            <FormControl
-                                type="search"
-                                placeholder="Search"
-                                className="me-2"
-                                aria-label="Search"
-                            />
-
-                        </Form>
+                       
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
