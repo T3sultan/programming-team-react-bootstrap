@@ -15,7 +15,7 @@ const NavBar = () => {
                             style={{ maxHeight: '100px' }}
                             navbarScroll
                         >
-                            <Stack direction="horizontal" gap={3}>
+                            <Stack direction="horizontal" gap={5}>
                                 <NavLink
                                     to="/home"
                                     activeStyle={{
